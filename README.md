@@ -17,6 +17,18 @@
 
 <details>
 <summary><h2>Java</h2></summary>
+  
+#### JVM
+1. [Java 파일이 실행되는 과정을 설명해주세요](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/24)
+2. [JVM의 구조에 대해 설명해주세요](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/27)
+3. [JVM이란 무엇이고 왜 사용하나요?](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/26)
+4. [클래스와 인스턴스는 JVM내에서 어떻게 동작하나요?](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/25)
+5. [JVM의 ClassLoader에 대해 설명해주세요](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/29)
+6. [JVM의 Runtime Data Area에 대해 설명해주세요](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/28)
+7. [클래스의 생명주기에 대해서 설명해주세요](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/31)
+8. [OutOfMemoryError와 StackOverFlowError는 언제 발생하나요??](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/30)
+
+
 </details>
 
 

@@ -1,22 +1,7 @@
 # Backend-Core-Study-1th
 
-
 <details>
-<summary><h2>Spring</h2></summary>
-  
-### Bean
-1. [스프링의 Bean이란 무엇이고 Bean은 어떻게 정의되고 관리됩니까?](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/1)
-2. [스프링에서 Bean의 생명주기에 대해 설명해주세요](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/2)
-3. [스프링에서 Bean의 스코프(scope)는 어떤 것들이 있으며, 각각의 의미에 대해 설명해주세요](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/3)
-4. [@Component, @Service, @Controller, @Repostiory의 차이를 설명해보세요](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/4)
-5. [Bean 의존성 주입 방법은 어떤것들이 있나요?](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/5)
-6. [@Bean과 @Component의 차이와 언제 사용하는 것이 좋을까요?](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/6)
-7. [@Controller와 @RestController의 차이는?](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/7)
-  
-</details>
-
-<details>
-<summary><h2>Java</h2></summary>
+<summary><h2>☕️ Java</h2></summary>
   
 #### JVM
 1. [Java 파일이 실행되는 과정을 설명해주세요](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/24)
@@ -31,6 +16,44 @@
 
 </details>
 
+<details>
+<summary><h2>🔍 Test</h2></summary>
+
+1. [AssertJ란 무엇이며, JUnit과 AssertJ를 함께 사용하는 이유를 말씀해주세요.](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/33)
+2. [단위테스트에서 AAA는 무엇을 의미하나요?](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/32)
+3. [Spring Context 캐싱의 원리를 알려주세요](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/43)
+4. [팀에서 어떤 방식으로 테스트를 작성했나요?](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/46)
+
+#### FIRST 원칙
+1. [FIRST 원칙이란 무엇이며, 각각의 원칙을 설명해 주세요.](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/34)
+2. [단위 테스트를 작성하는 데에 FIRST원칙이 중요한 이유를 설명해주세요.](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/36)
+3. [FIRST 원칙 중 가장 중요하다고 생각하는 원칙이 무엇인가요?](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/35)
+
+#### 테스트 더블(Test Double)
+1. [테스트 더블이란 무엇이며 종류로는 무엇이 있나요?](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/37)
+2. [각 종류의 테스트 더블(Stub, Fake, Dummy, Spy ,Mock)은 언제 사용하나요?](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/38)
+3. [테스트 더블 중 Stub과 Mock 차이를 설명해주세요.](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/40)
+4. [테스트 더블 중 Spy는 어떤 상황에서 사용되나요?](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/41)
+
+#### Mockito
+1. [자바의 Mockito 라이브러리에 대해서 설명해주세요.](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/39)
+2. [Mockito 라이브러리에서 각 테스트 더블 방식을 사용하는 방법은 무엇인가요?](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/42)
+
+</details>
+
+<details>
+<summary><h2>Spring</h2></summary>
+  
+### Bean
+1. [스프링의 Bean이란 무엇이고 Bean은 어떻게 정의되고 관리됩니까?](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/1)
+2. [스프링에서 Bean의 생명주기에 대해 설명해주세요](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/2)
+3. [스프링에서 Bean의 스코프(scope)는 어떤 것들이 있으며, 각각의 의미에 대해 설명해주세요](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/3)
+4. [@Component, @Service, @Controller, @Repostiory의 차이를 설명해보세요](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/4)
+5. [Bean 의존성 주입 방법은 어떤것들이 있나요?](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/5)
+6. [@Bean과 @Component의 차이와 언제 사용하는 것이 좋을까요?](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/6)
+7. [@Controller와 @RestController의 차이는?](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/7)
+  
+</details>
 
 <details>
 <summary><h2>Database</h2></summary>

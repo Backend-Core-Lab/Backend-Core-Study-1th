@@ -42,7 +42,7 @@
 </details>
 
 <details>
-<summary><h2>Spring</h2></summary>
+<summary><h2>🍃Spring</h2></summary>
   
 ### Bean
 1. [스프링의 Bean이란 무엇이고 Bean은 어떻게 정의되고 관리됩니까?](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/1)
@@ -52,7 +52,18 @@
 5. [Bean 의존성 주입 방법은 어떤것들이 있나요?](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/5)
 6. [@Bean과 @Component의 차이와 언제 사용하는 것이 좋을까요?](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/6)
 7. [@Controller와 @RestController의 차이는?](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/7)
-  
+
+### Transaction
+1. [@Transactional 어노테이션에 대해 설명해주세요.](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/45)
+2. [@Transactional 어노테이션 외에 트랜잭션을 구현하는 방법은?](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/50)
+3. [@Transactional 어노테이션의 동작 원리에 대해 설명해주세요.](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/44)
+4. [선언적 트랜잭션 방식을 사용하는 이유는 무엇인가요?](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/48)
+5. [@Transactional 어노테이션으로 트랜잭션이 적용되지 않는 경우는?](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/53)
+6. [Transactional은 모든 예외에 대해서 트랜잭션이 롤백되나요?](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/52)
+7. [@Transactional의 readOnly 옵션을 true로 설정하는 이유는 무엇인가요?](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/47)
+8. [Transactional 설정이 readOnly=true 임에도 flush가 발생하는 경우는?](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/51)
+9. [Transactional의 전파에 대해 설명해주세요.](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/49)
+
 </details>
 
 <details>

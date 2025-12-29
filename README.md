@@ -67,7 +67,7 @@
 </details>
 
 <details>
-<summary><h2>Database</h2></summary>
+<summary><h2>🗄️ Database</h2></summary>
 
 ### Transaction
 1. [트랜잭션이란 무엇인가요?](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/8)
@@ -94,7 +94,7 @@
 
 
 <details>
-<summary><h2>JPA</h2></summary>
+<summary><h2>🔗 JPA</h2></summary>
 
 1. [EntityManagerFactory와 EntityManager의 차이점은 무엇인가요?](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/57)
 2. [영속성 컨텍스트란 무엇이며, 그 역할은 무엇인가요?](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/54)

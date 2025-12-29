@@ -95,6 +95,19 @@
 
 <details>
 <summary><h2>JPA</h2></summary>
+
+1. [EntityManagerFactory와 EntityManager의 차이점은 무엇인가요?](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/57)
+2. [영속성 컨텍스트란 무엇이며, 그 역할은 무엇인가요?](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/54)
+3. [영속성 컨텍스트는 언제 생성되고 종료되나요?](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/64)
+4. [영속, 준영속, 비영속의 차이점을 말해주세요.](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/60)
+5. [1차 캐시, 2차 캐시에 대해 설명해주세요.](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/59)
+6. [영속성 컨텍스트를 통해 얻을 수 있는 이점에 대해 설명해 주세요.](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/55)
+7. [Flush와 Clear의 차이점은 무엇인가요?](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/56)
+8. [영속성 컨텍스트는 언제 자동으로 플러시되나요?](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/58)
+9. [지연 로딩 예외가 발생하는 경우와 해결 방법은 무엇인가요?](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/62)
+10. [IDENTITY, SEQUENCE, TABLE ID 전략의 차이와 각각 어느 상황에서 사용하는지 설명해주세요.](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/63)
+11. [IDENTITY ID 생성 전략이 쓰기 지연이 안되는 이유가 무엇인가요?](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/61)
+  
 </details>
 
 

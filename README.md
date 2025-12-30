@@ -64,6 +64,9 @@
 8. [Transactional 설정이 readOnly=true 임에도 flush가 발생하는 경우는?](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/51)
 9. [Transactional의 전파에 대해 설명해주세요.](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/49)
 
+
+
+
 </details>
 
 <details>
@@ -89,6 +92,15 @@
 6. [낙관적 락과 비관적 락의 차이점은 무엇인가요?](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/19)
 7. [비관적 락을 걸 때 주의 사항은?](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/23)
 8. [분산 잠금이란 무엇이고, 언제 사용하는 것이 좋을까요?](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/20)
+
+### Index
+1. [인덱스란 무엇인가요?](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/65)
+2. [인덱스에서 사용하는 자료구조를 설명해주세요.](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/66)
+3. [B-Tree와 B+-Tree의 차이점은?](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/67)
+4. [복합 인덱스를 설정할 때 성능에 영향을 미치는 요소에 대해 설명해주세요.](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/69)
+5. [인덱스가 존재함에도 불구하고 쿼리에서 사용되지 않는 경우를 설명해주세요.](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/70)
+6. [데이터베이스 쿼리가 여러 개의 인덱스를 사용할 수 있는 경우, 어떤 기준으로 인덱스가 선택되나요?](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/71)
+7. [실행 계획 분석 방법을 알려주세요.](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/68)
   
 </details>
 

@@ -13,6 +13,11 @@
 7. [클래스의 생명주기에 대해서 설명해주세요](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/31)
 8. [OutOfMemoryError와 StackOverFlowError는 언제 발생하나요??](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/30)
 
+### GC
+1. [GC가 무엇이고 왜 필요한지 설명해주세요.](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/77)
+2. [Major GC와 Minor GC에 대해 설명해주세요.](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/79)
+3. [Stop the world 이벤트가 무엇인지 설명해주세요.](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/78)
+4. [GC 튜닝은 왜 필요한지, 어떤 방법으로 하는지 설명해주세요.](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/80)
 
 </details>
 
@@ -126,7 +131,7 @@
 
 
 <details>
-<summary><h2>Tomcat</h2></summary>
+<summary><h2>🐱 Tomcat</h2></summary>
 </details>
 
 ## 👥 Member

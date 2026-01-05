@@ -131,7 +131,7 @@
 
 
 <details>
-<summary><h2>🐱 Tomcat, Concurrency</h2></summary>
+<summary><h2>🐱 Tomcat</h2></summary>
 
 ### 동시성
 1. [동시성 문제란 무엇이며 왜 발생하나요?](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/82)

@@ -131,7 +131,18 @@
 
 
 <details>
-<summary><h2>🐱 Tomcat</h2></summary>
+<summary><h2>🐱 Tomcat, Concurrency</h2></summary>
+
+### 동시성
+1. [동시성 문제란 무엇이며 왜 발생하나요?](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/82)
+2. [Race Condition이란 무엇이며 언제 발생하나요?](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/87)
+3. [스레드 안전(Thread-Safety)이란 무엇이며, 이를 지키기 위한 4가지 원칙으로 무엇이 있나요?](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/88)
+4. [volatile 키워드에 대해서 설명해주세요](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/85)
+5. [Java의 synchronized 키워드는 어떻게 작동하나요?](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/84)
+6. [Atomic객체와 그 원리에 대해서 설명해주세요](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/83)
+7. [Deadlock(교착 상태)이란 무엇이며, Java에서 이를 어떻게 방지할 수 있나요?](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/86)
+8. [Java에서 동시성을 보장하기 위해 어떠한 해결책들이 존재하는지 설명해주세요](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/81)
+
 </details>
 
 ## 👥 Member

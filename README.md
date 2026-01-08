@@ -63,6 +63,9 @@
 2. [DispatcherServlet이 요청을 처리하는 흐름을 설명해 주세요.](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/74)
 3. [HandlerAdapter를 사용하는 이유는 무엇인가요?](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/75)
 
+### Interceptor / Filter
+1. [Filter, Interceptor에서 각각 어떤 로그를 찍을까요?](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/76)
+
 ### Transaction
 1. [@Transactional 어노테이션에 대해 설명해주세요.](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/45)
 2. [@Transactional 어노테이션 외에 트랜잭션을 구현하는 방법은?](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/50)

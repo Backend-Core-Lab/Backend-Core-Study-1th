@@ -148,6 +148,25 @@
 
 </details>
 
+<details>
+<summary><h2>🛜 Network</h2></summary>
+
+### TCP/IP
+1. TCP와 UDP의 가장 큰 차이점은 무엇이고, 각각 언제 사용하나요?
+2. TCP는 신뢰성을 어떻게 보장하나요?
+3. UDP가 TCP보다 빠른 이유는 무엇인가요?
+
+### HTTP/HTTPS
+1. HTTP/1.1의 성능 한계는 무엇인가요?
+2. HTTP/2는 HTTP/1.1의 어떤 문제를 해결했나요?
+3. HTTP/3는 왜 TCP가 아니라 QUIC(UDP 기반)를 사용하나요?
+4. HTTPS는 HTTP에 무엇을 추가한 것인가요?
+5. HTTPS 통신 과정(핸드셰이크)을 설명해보세요
+6. HTTPS에서도 패킷을 가로채면 내용을 볼 수 없나요?
+
+</details>
+
+
 ## 👥 Member
 
 <table>

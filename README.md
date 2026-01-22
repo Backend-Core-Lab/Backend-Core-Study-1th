@@ -164,6 +164,7 @@
 1. [TCP와 UDP의 가장 큰 차이점은 무엇이고, 각각 언제 사용하나요?](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/93)
 2. [TCP는 신뢰성을 어떻게 보장하나요?](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/94)
 3. [UDP가 TCP보다 빠른 이유는 무엇인가요?](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/95)
+4. [QUIC는 어떻게 신뢰성을 보장하나요?](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/96)
 
 ### HTTP/HTTPS
 1. HTTP/1.1의 성능 한계는 무엇인가요?

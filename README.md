@@ -57,6 +57,7 @@
 5. [Bean 의존성 주입 방법은 어떤것들이 있나요?](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/5)
 6. [@Bean과 @Component의 차이와 언제 사용하는 것이 좋을까요?](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/6)
 7. [@Controller와 @RestController의 차이는?](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/7)
+8. [스프링에서 Bean의 스코프(scope)는 어떤 것들이 있으며, 각각의 의미에 대해 설명해주세요.](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/3)
 
 ### DispatcherServlet
 1. [DispatcherServlet이란 무엇이고, 왜 사용하나요?](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/73)
@@ -111,6 +112,14 @@
 5. [인덱스가 존재함에도 불구하고 쿼리에서 사용되지 않는 경우를 설명해주세요.](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/70)
 6. [데이터베이스 쿼리가 여러 개의 인덱스를 사용할 수 있는 경우, 어떤 기준으로 인덱스가 선택되나요?](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/71)
 7. [실행 계획 분석 방법을 알려주세요.](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/68)
+
+### 파티셔닝/샤딩
+1. [파티셔닝과 샤딩에 대해서 설명해주세요. ](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/89)
+2. [파티셔닝과 샤딩을 각각 어떤 데이터에 적용하면 좋을까요?](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/90)
+
+#### 파티셔닝
+1. [파티셔닝 키를 선택하는 기준을 설명해주세요.](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/92)
+2. [파티션 프루닝이란 무엇인가요?](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/91)
   
 </details>
 
@@ -152,9 +161,9 @@
 <summary><h2>🛜 Network</h2></summary>
 
 ### TCP/IP
-1. TCP와 UDP의 가장 큰 차이점은 무엇이고, 각각 언제 사용하나요?
-2. TCP는 신뢰성을 어떻게 보장하나요?
-3. UDP가 TCP보다 빠른 이유는 무엇인가요?
+1. [TCP와 UDP의 가장 큰 차이점은 무엇이고, 각각 언제 사용하나요?](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/93)
+2. [TCP는 신뢰성을 어떻게 보장하나요?](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/94)
+3. [UDP가 TCP보다 빠른 이유는 무엇인가요?](https://github.com/Backend-Core-Lab/Backend-Core-Study-1th/discussions/95)
 
 ### HTTP/HTTPS
 1. HTTP/1.1의 성능 한계는 무엇인가요?
